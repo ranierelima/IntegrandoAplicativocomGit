@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
                     return true;
                 //Adicionando comentario para dar conflito
                 //Segunda vez que eu adiciono uma linha aqui para dar conflito
+                //Conflito solucionado
+                //Commit master
             }
             return false;
         }
