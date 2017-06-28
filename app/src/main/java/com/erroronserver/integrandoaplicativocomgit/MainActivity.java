@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
                 //Segunda vez que eu adiciono uma linha aqui para dar conflito
                 //Conflito solucionado
                 //Commit master
+                //Commit branch1
+                //Entendendo como funcina o Git no Android Studio
             }
             return false;
         }
