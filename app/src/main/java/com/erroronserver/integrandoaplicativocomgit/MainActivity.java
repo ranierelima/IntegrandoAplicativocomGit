@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_profile:
                     mTextMessage.setText(R.string.title_profile);
                     return true;
+                //Segunda vez que eu adiciono uma linha aqui para dar conflito
             }
             return false;
         }
